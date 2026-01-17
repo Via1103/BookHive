@@ -101,6 +101,9 @@ BookHive/
 
 ---
 
-## 👩‍💻 Author
-Vineeta S.  
-B.Tech CSE (AI) – Final Year Project
+## ## 👥 Project Team
+
+- **Vineeta Sharma** – Backend development, recommendation logic, API integration
+- **Jayesh Shrivastav** – Frontend design and UI implementation
+- **Shreya Sihare** – Data handling, testing, and documentation
+
