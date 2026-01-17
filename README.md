@@ -101,7 +101,7 @@ BookHive/
 
 ---
 
-## ## 👥 Project Team
+## 👥 Project Team
 
 - **Vineeta Sharma** – Backend development, recommendation logic, API integration
 - **Jayesh Shrivastav** – Frontend design and UI implementation
