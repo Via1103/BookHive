@@ -1,13 +1,13 @@
 # 📚 BookHive – Book Recommendation System
 
-## 🔍 Overview
+## Overview
 BookHive is a web-based book recommendation system that fetches real-time book data from the Google Books API and recommends relevant books based on a user’s search query and optional genre preferences.
 
 The project demonstrates API integration, text preprocessing, and content-based recommendation logic using basic machine learning techniques.
 
 ---
 
-## ✨ Features
+## Features
 - Search books using keywords (title, topic, or author)
 - Optional genre-based filtering using Google Books subject filters
 - Real-time data fetched from Google Books API
@@ -18,7 +18,7 @@ The project demonstrates API integration, text preprocessing, and content-based 
 
 ---
 
-## 🧠 How the Recommendation System Works
+## How the Recommendation System Works
 1. User enters a search query and optional genres
 2. The system fetches book data from the Google Books API
 3. Book titles and descriptions are combined as text data
@@ -37,7 +37,7 @@ This is a content-based recommendation approach.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 ### Backend
 - Python
 - Flask
@@ -67,7 +67,7 @@ BookHive/
 
 ---
 
-## 🚀 How to Run the Project
+## How to Run the Project
 1. Clone the repository
 2. Install dependencies using:
    pip install -r requirements.txt
@@ -79,21 +79,21 @@ BookHive/
 
 ---
 
-## 📊 Dataset
+## Dataset
 - Source: Google Books API
 - Type: Real-time API data
 - Fields used: title, authors, description, categories, ratings
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 - Depends on availability and quality of API metadata
 - Limited number of results per API request
 - No user history or collaborative filtering
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 - Add user login and reading history
 - Hybrid recommendation system
 - Improved NLP techniques
@@ -101,7 +101,7 @@ BookHive/
 
 ---
 
-## 👥 Project Team
+## Project Team
 
 - **Vineeta Sharma** – Backend development, recommendation logic, API integration
 - **Jayesh Shrivastav** – Frontend design and UI implementation
